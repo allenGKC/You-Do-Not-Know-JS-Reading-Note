@@ -11,3 +11,4 @@
 * [第二章 词法作用域](https://github.com/allenGKC/You-Do-Not-Know-JS-Reading-Note/issues/2) 
 * [第三章 函数作用域和块作用域](https://github.com/allenGKC/You-Do-Not-Know-JS-Reading-Note/issues/3) 
 * [第四章 提升](https://github.com/allenGKC/You-Do-Not-Know-JS-Reading-Note/issues/4) 
+* [第五章 作用域闭包](https://github.com/allenGKC/You-Do-Not-Know-JS-Reading-Note/issues/5) 
