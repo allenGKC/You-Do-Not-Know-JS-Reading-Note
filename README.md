@@ -16,3 +16,4 @@
 * [第五章 作用域闭包](https://github.com/allenGKC/You-Do-Not-Know-JS-Reading-Note/issues/5) 
 
 #### 第二部分 this和对象原型
+* [第一章 关于this](https://github.com/allenGKC/You-Do-Not-Know-JS-Reading-Note/issues/6) 
