@@ -17,3 +17,4 @@
 
 #### 第二部分 this和对象原型
 * [第一章 关于this](https://github.com/allenGKC/You-Do-Not-Know-JS-Reading-Note/issues/6) 
+* [第二章 this全面解析 ](https://github.com/allenGKC/You-Do-Not-Know-JS-Reading-Note/issues/7) 
