@@ -21,3 +21,4 @@
 * [第三章 对象](https://github.com/allenGKC/You-Do-Not-Know-JS-Reading-Note/issues/8) 
 * [第四章 混合对象”类”](https://github.com/allenGKC/You-Do-Not-Know-JS-Reading-Note/issues/9) 
 * [第五章 原型](https://github.com/allenGKC/You-Do-Not-Know-JS-Reading-Note/issues/10) 
+* [第六章 行为委托](https://github.com/allenGKC/You-Do-Not-Know-JS-Reading-Note/issues/11) 
