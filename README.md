@@ -22,3 +22,4 @@
 * [第四章 混合对象”类”](https://github.com/allenGKC/You-Do-Not-Know-JS-Reading-Note/issues/9) 
 * [第五章 原型](https://github.com/allenGKC/You-Do-Not-Know-JS-Reading-Note/issues/10) 
 * [第六章 行为委托](https://github.com/allenGKC/You-Do-Not-Know-JS-Reading-Note/issues/11) 
+* [附录 ES6中的Class] (https://github.com/allenGKC/You-Do-Not-Know-JS-Reading-Note/issues/12) 
