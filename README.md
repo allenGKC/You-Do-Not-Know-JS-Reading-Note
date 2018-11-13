@@ -28,4 +28,5 @@
 
 #### 第一部分 类型和语法
 
+* [类型](https://github.com/allenGKC/You-Do-Not-Know-JS-Reading-Note/issues/14) 
 
