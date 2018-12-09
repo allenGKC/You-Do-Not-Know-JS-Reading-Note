@@ -31,5 +31,5 @@
 * [类型](https://github.com/allenGKC/You-Do-Not-Know-JS-Reading-Note/issues/14) 
 * [值](https://github.com/allenGKC/You-Do-Not-Know-JS-Reading-Note/issues/15) 
 * [原生函数](https://github.com/allenGKC/You-Do-Not-Know-JS-Reading-Note/issues/16) 
-* [强制类型转换] (https://github.com/allenGKC/You-Do-Not-Know-JS-Reading-Note/issues/17) 
+* [强制类型转换](https://github.com/allenGKC/You-Do-Not-Know-JS-Reading-Note/issues/17) 
 
