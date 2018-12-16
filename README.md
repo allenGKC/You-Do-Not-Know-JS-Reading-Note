@@ -32,4 +32,8 @@
 * [值](https://github.com/allenGKC/You-Do-Not-Know-JS-Reading-Note/issues/15) 
 * [原生函数](https://github.com/allenGKC/You-Do-Not-Know-JS-Reading-Note/issues/16) 
 * [强制类型转换](https://github.com/allenGKC/You-Do-Not-Know-JS-Reading-Note/issues/17) 
+* [语法](https://github.com/allenGKC/You-Do-Not-Know-JS-Reading-Note/issues/18) 
+
+#### 第二部分 异步和性能
+
 
