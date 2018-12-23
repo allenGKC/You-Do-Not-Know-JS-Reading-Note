@@ -36,4 +36,5 @@
 
 #### 第二部分 异步和性能
 
+* [异步：现在和将来](https://github.com/allenGKC/You-Do-Not-Know-JS-Reading-Note/issues/19) 
 
