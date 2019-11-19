@@ -39,4 +39,5 @@
 * [异步：现在和将来](https://github.com/allenGKC/You-Do-Not-Know-JS-Reading-Note/issues/19) 
 * [回调](https://github.com/allenGKC/You-Do-Not-Know-JS-Reading-Note/issues/20) 
 * [Promise](https://github.com/allenGKC/You-Do-Not-Know-JS-Reading-Note/issues/21)
+* [生成器](https://github.com/allenGKC/You-Do-Not-Know-JS-Reading-Note/issues/22)
 
