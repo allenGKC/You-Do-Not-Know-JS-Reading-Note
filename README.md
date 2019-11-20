@@ -40,4 +40,4 @@
 * [回调](https://github.com/allenGKC/You-Do-Not-Know-JS-Reading-Note/issues/20) 
 * [Promise](https://github.com/allenGKC/You-Do-Not-Know-JS-Reading-Note/issues/21)
 * [生成器](https://github.com/allenGKC/You-Do-Not-Know-JS-Reading-Note/issues/22)
-
+* [程序性能](https://github.com/allenGKC/You-Do-Not-Know-JS-Reading-Note/issues/23)
